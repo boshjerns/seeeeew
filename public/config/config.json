@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFA9b38FeB26e64d2d26000F18773E1533DC76dE3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfa9b38feb26e64d2d26000f18773e1533dc76de3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Camera Person NFT",
+  "SYMBOL": "Camera Person NFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 151114,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cameraperson",
+  "SHOW_BACKGROUND": true
+}
